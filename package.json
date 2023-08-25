@@ -1,0 +1,37 @@
+{
+  "name": "notes-keeper-app-react",
+  "version": "1.0.0",
+  "homepage": "https://gosiacodes.github.io/notes-keeper-app-react",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.3",
+    "@mui/material": "^5.14.5",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "react-scripts": "5.0.1",
+    "styled-components": "^5.3.11"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
