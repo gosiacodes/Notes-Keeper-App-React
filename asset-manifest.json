@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notes-keeper-app-react/static/css/main.89e5a85f.css",
+    "main.js": "/notes-keeper-app-react/static/js/main.20e30e71.js",
+    "index.html": "/notes-keeper-app-react/index.html",
+    "main.89e5a85f.css.map": "/notes-keeper-app-react/static/css/main.89e5a85f.css.map",
+    "main.20e30e71.js.map": "/notes-keeper-app-react/static/js/main.20e30e71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89e5a85f.css",
+    "static/js/main.20e30e71.js"
+  ]
+}
